@@ -1,0 +1,11 @@
+prefix: '&8[&aShop&8]'
+prefix-advertise: '&2&lADV &7&l[&a&l{PLAYER}&7&l] &8&l>> &f'
+advertise-delay: 20
+shop:
+  AdminShop:
+    enable: 'false'
+    x: 0
+    y: 0
+    z: 0
+    pitch: 0
+    yaw: 0
